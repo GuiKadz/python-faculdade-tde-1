@@ -15,6 +15,9 @@ GitHub para controle de versão, organização e backup do código.
 | `aula05-listas/` | Listas e Vetores |
 | `aula06-matrizes/` | Matrizes |
 | `aula08-funcoes/` | Funções |
+| `lista-RA1/` | Lista de exercicios para a avaliacao RA1 |
+| `lista-RA2/` | Lista de exercicios para a avaliacao RA2|
+
 
 ---
 
@@ -40,6 +43,8 @@ python aula03-introducao/exercicios.py
 | `feature/aula05-listas` | Desenvolvimento dos exercícios de listas |
 | `feature/aula06-matrizes` | Desenvolvimento dos exercícios de matrizes |
 | `feature/aula08-funcoes` | Desenvolvimento dos exercícios de funções |
+| `feature/simulado-ra1` | Desenvolvimento dos exercícios dos conteudos da primeira avaliacao |
+| `feature/simulado-ra2` | Desenvolvimento dos exercícios dos conteudos da segunda avaliacao |
 
 ---
 
