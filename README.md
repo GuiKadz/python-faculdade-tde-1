@@ -83,3 +83,7 @@ GitHub: [@GuiKadz](https://github.com/GuiKadz)
 - **Disciplina:** Raciocionio Algoritmico
 - **Instituição:** Pontificia Universidade Católica do Paraná
 - **Semestre:** 1º Semestre / 2026
+
+## 📄 Relatório TDE 1
+
+[Clique aqui para ver o relatório completo](RELATORIO.md)

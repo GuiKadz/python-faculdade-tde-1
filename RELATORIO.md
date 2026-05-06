@@ -55,8 +55,7 @@ git config --global user.name "Guilherme Moczedlo Kadubitzki"
 git config --global user.email "seu-email@exemplo.com"
 git --version
 ```
-
-> **Captura de tela:** inserir print mostrando o terminal com `git --version` e `git config --list`.
+![Configuração do Git](assets/print-terminal-git.png)
 
 ---
 
@@ -113,8 +112,7 @@ git push origin feature/aulaXX-tema
 # merge na main após revisão
 ```
 
-> **Captura de tela:** inserir print do histórico de branches no GitHub ou do terminal com `git branch -a`.
-
+![Histórico de branches](assets/print-terminal-branches.png)
 ---
 
 ## 6. Commits
@@ -132,8 +130,9 @@ feat: simulado RA1 - conteúdos da primeira avaliação
 feat: simulado RA2 - listas, dicionários e matrizes
 docs: README estruturado com documentação do repositório
 ```
-
-> **Captura de tela:** inserir print da página de commits no GitHub mostrando o histórico.
+![Histórico de commits](assets/print-commit-1.png)
+![Histórico de commits](assets/print-commit-2.png)
+![Histórico de commits](assets/print-commit-3.png)
 
 ---
 
@@ -146,7 +145,7 @@ Para cada branch de aula, foi aberto um Pull Request no GitHub solicitando a int
 3. Revisão do código
 4. Merge na `main`
 
-> **Captura de tela:** inserir print de um Pull Request aberto e do merge concluído no GitHub.
+![Pagina de um pull request](assets/pull-request.png)
 
 ---
 
@@ -162,7 +161,7 @@ O repositório conta com um README estruturado na raiz, contendo:
 - Checklist dos objetivos de aprendizado
 - Informações do autor e da disciplina
 
-> **Captura de tela:** inserir print da página principal do repositório no GitHub com o README renderizado.
+![README renderizado no Github](assets/README.png)
 
 ---
 
