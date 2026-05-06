@@ -66,7 +66,7 @@ python aula03-introducao/exercicios.py
 
 ## 👤 Autor
 
-**SEU NOME AQUI**  
+**Guilherme Moczedlo Kadubitzki**  
 GitHub: [@GuiKadz](https://github.com/GuiKadz)
 
 ---
